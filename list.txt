@@ -1,1 +1,1 @@
-This is the list of fruits.
+The list of fruits ocntains apples and bananas.
